@@ -1,11 +1,12 @@
 ### Hi there :computer:
 
-Eu sou programador Front-End ,atualmente estou aprendendo e criando projetos:
+Eu sou programador Front-End ,atualmente ja fiz e criei alguns projetos:
 <br>
 <br>
 
 - <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange" alt-HTML-logo />
-- <img src="https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=61DAFB" alt-CSS-logo /> <br>  <br>Atualmente estou estudando  <br> <br>
+- <img src="https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=61DAFB" alt-CSS-logo /> <br>  <br>
+- Atualmente estou  "estudando" <br> <br>
 
 - <img src="https://img.shields.io/badge/JavaScript-20232A?&style=for-the-badge&logo=css3&logoColor=yellow" alt-javascript-logo />
 - <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=green" alt-node.js-logo />
